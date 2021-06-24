@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Selected Recipe Footer it should match Selected Recipe Footer snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-bdnxRM sc-dlnjwi cFwRot"
+        data-testid="recipe-selected"
+        display="flex"
+      >
+        <button
+          aria-label="decrease-quantity"
+          class="sc-jSFjdj cBxnSP"
+          title="Decrease quantity"
+        >
+          <svg
+            class="sc-hKFxyN bKWFni"
+            height="24"
+            viewBox="0 0 32 32"
+            width="24"
+          >
+            <path
+              d="M16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13S3 23.18 3 16 8.82 3 16 3zm0 1.5C9.649 4.5 4.5 9.649 4.5 16S9.649 27.5 16 27.5 27.5 22.351 27.5 16 22.351 4.5 16 4.5zM22 15v2H10v-2h12z"
+            />
+          </svg>
+        </button>
+        <div
+          class="sc-bdnxRM cEwTyI"
+          color="white"
+        >
+          <div
+            class="sc-eCApnc gJzqRs"
+            data-testid="recipe-selected-desc"
+            font-family="secondary"
+            font-size="md"
+            font-weight="bold"
+          >
+            1
+             in your box
+          </div>
+          <div
+            class="sc-eCApnc eiZrLV"
+            data-testid="recipe-selected-servings"
+            font-family="secondary"
+            font-size="sm"
+          >
+            (
+            2
+             servings)
+          </div>
+        </div>
+        <button
+          aria-label="increase-quantity"
+          class="sc-jSFjdj cBxnSP"
+          title="Increase quantity"
+        >
+          <svg
+            class="sc-hKFxyN bKWFni"
+            height="24"
+            viewBox="0 0 32 32"
+            width="24"
+          >
+            <path
+              d="M16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13S3 23.18 3 16 8.82 3 16 3zm0 1.5C9.649 4.5 4.5 9.649 4.5 16S9.649 27.5 16 27.5 27.5 22.351 27.5 16 22.351 4.5 16 4.5zm1 5.5v5h5v2h-5v5h-2v-5h-5v-2h5v-5h2z"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-bdnxRM sc-dlnjwi cFwRot"
+      data-testid="recipe-selected"
+      display="flex"
+    >
+      <button
+        aria-label="decrease-quantity"
+        class="sc-jSFjdj cBxnSP"
+        title="Decrease quantity"
+      >
+        <svg
+          class="sc-hKFxyN bKWFni"
+          height="24"
+          viewBox="0 0 32 32"
+          width="24"
+        >
+          <path
+            d="M16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13S3 23.18 3 16 8.82 3 16 3zm0 1.5C9.649 4.5 4.5 9.649 4.5 16S9.649 27.5 16 27.5 27.5 22.351 27.5 16 22.351 4.5 16 4.5zM22 15v2H10v-2h12z"
+          />
+        </svg>
+      </button>
+      <div
+        class="sc-bdnxRM cEwTyI"
+        color="white"
+      >
+        <div
+          class="sc-eCApnc gJzqRs"
+          data-testid="recipe-selected-desc"
+          font-family="secondary"
+          font-size="md"
+          font-weight="bold"
+        >
+          1
+           in your box
+        </div>
+        <div
+          class="sc-eCApnc eiZrLV"
+          data-testid="recipe-selected-servings"
+          font-family="secondary"
+          font-size="sm"
+        >
+          (
+          2
+           servings)
+        </div>
+      </div>
+      <button
+        aria-label="increase-quantity"
+        class="sc-jSFjdj cBxnSP"
+        title="Increase quantity"
+      >
+        <svg
+          class="sc-hKFxyN bKWFni"
+          height="24"
+          viewBox="0 0 32 32"
+          width="24"
+        >
+          <path
+            d="M16 3c7.18 0 13 5.82 13 13s-5.82 13-13 13S3 23.18 3 16 8.82 3 16 3zm0 1.5C9.649 4.5 4.5 9.649 4.5 16S9.649 27.5 16 27.5 27.5 22.351 27.5 16 22.351 4.5 16 4.5zm1 5.5v5h5v2h-5v5h-2v-5h-5v-2h5v-5h2z"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Unselected Recipe Footer it should match Unselected Recipe Footer snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-bdnxRM sc-dlnjwi uFWrk"
+        data-testid="recipe-unselected"
+        display="flex"
+      >
+        <div
+          class="sc-bdnxRM gbcpxT"
+        >
+          <div
+            class="sc-eCApnc KdoYY"
+            color="primary_600"
+            data-testid="recipe-special-price"
+          >
+            +
+            $1.00
+          </div>
+        </div>
+        <div
+          class="sc-bdnxRM iBwYVZ"
+        >
+          <button
+            class="sc-gtsrHT bTcqaS"
+            width="100%"
+          >
+            Add
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-bdnxRM sc-dlnjwi uFWrk"
+      data-testid="recipe-unselected"
+      display="flex"
+    >
+      <div
+        class="sc-bdnxRM gbcpxT"
+      >
+        <div
+          class="sc-eCApnc KdoYY"
+          color="primary_600"
+          data-testid="recipe-special-price"
+        >
+          +
+          $1.00
+        </div>
+      </div>
+      <div
+        class="sc-bdnxRM iBwYVZ"
+      >
+        <button
+          class="sc-gtsrHT bTcqaS"
+          width="100%"
+        >
+          Add
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
